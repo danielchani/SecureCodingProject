@@ -150,7 +150,3 @@ provides a practical example for developers learning about:
 
 ------------------------------------------------------------------------
 
-# 👨‍💻 Author
-
-Daniel Shany\
-Computer Science Graduate
